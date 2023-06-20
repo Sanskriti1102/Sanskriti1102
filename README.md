@@ -1,7 +1,8 @@
 ### Hi there !! 👋
 
 # 💫 About Me:
-I am currently delving into the realm of Artificial Intelligence and actively participating in the SheBuildsOnAzure #include <her> Cohort 2.0, organized by the Azure Developer Community and supported by Microsoft Azure. Additionally, I am contributing to GSSOC'23 (GirlScript Summer Of Code).<br>I am a Computer Engineering student pursuing B.Tech.
+I am currently delving into the realm of Artificial Intelligence and actively participating in the SheBuildsOnAzure #include Her Cohort 2.0, organized by the Azure Developer Community and supported by Microsoft Azure.<br> Additionally, I am contributing to GSSOC'23 (GirlScript Summer Of Code).
+<br>I am a Computer Engineering student pursuing B.Tech.
 
 
 ## 🌐 Socials:
