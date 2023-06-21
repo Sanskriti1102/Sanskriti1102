@@ -1,3 +1,5 @@
+# Hi, I'm Sanskriti Kadam 👋
+
 # 💫 About Me:
 🌱 I’m currently learning DSA, Advance Python, and Artificial Intelligence Fundamentals.<br>⭐ A Computer Engineering Student pursuing BTech.
 
