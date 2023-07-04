@@ -14,10 +14,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanskritikadam/) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23000000.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/sanskritikadam)
 ## 🌐 Other Profiles:
-[![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/6dcb774f-e8c3-454d-9dfd-314e8300a3ab)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-%230078D4.svg?style=plastic&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/sanskritikadam/)
+[![Microsoft Community Hub](https://img.shields.io/badge/Microsoft%20Community%20Hub-%230078D7.svg?style=flat-square&logo=microsoft&logoColor=white)](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1903716#profile)
+[![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/6dcb774f-e8c3-454d-9dfd-314e8300a3ab)
 [![Google Developer Groups](https://img.shields.io/badge/GDG-%23000000.svg?style=plastic&logo=google-developers&logoColor=white)](https://gdg.community.dev/u/mrnez2/#/about)
 [![Google Developer Student Clubs](https://img.shields.io/badge/GDSC-%23EA4335.svg?style=plastic&logo=google-developers&logoColor=white)](https://gdsc.community.dev/u/mbbjj5/#/about)
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sanskriti1102&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true).
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanskriti1102&theme=ayu-mirage&hide_border=false)<br/>
