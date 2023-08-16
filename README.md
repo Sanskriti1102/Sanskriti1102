@@ -12,6 +12,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanskritikadam/) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23000000.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/sanskritikadam)
+
 ## 🌐 Other Profiles:
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-%230078D4.svg?style=plastic&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/sanskritikadam/)
 [![Microsoft Community Hub](https://img.shields.io/badge/Microsoft%20Community%20Hub-%230078D7.svg?style=flat-square&logo=microsoft&logoColor=white)](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1903716#profile)
@@ -19,6 +20,7 @@
 [![Google Developer Groups](https://img.shields.io/badge/GDG-%23000000.svg?style=plastic&logo=google-developers&logoColor=white)](https://gdg.community.dev/u/mrnez2/#/about)
 [![Google Developer Student Clubs](https://img.shields.io/badge/GDSC-%23EA4335.svg?style=plastic&logo=google-developers&logoColor=white)](https://gdsc.community.dev/u/mbbjj5/#/about)
 [![Google Developers Profile](https://img.shields.io/badge/Google%20Developers-Profile-blue?style=flat&logo=google)](https://g.dev/SanskritiKadam_SK)
+[![Quine](https://img.shields.io/badge/Quine-%23000000.svg?logo=quines&logoColor=white)](https://quine.sh/user/Sanskriti1102)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sanskriti1102&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true).
@@ -32,6 +34,10 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+# Here's More Information :
+[![Sanskriti1102's GitHub | Languages Over Time](https://stats.quine.sh/Sanskriti1102/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Sanskriti1102)
+[![Sanskriti1102's GitHub | Topics Over Time](https://stats.quine.sh/Sanskriti1102/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Sanskriti1102)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
