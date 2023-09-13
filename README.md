@@ -1,3 +1,4 @@
+![MasterHead](https://share.creavite.co/JsGTiL0KoejAByNM.gif)
 ### <i> Hi There, I'm Sanskriti Kadam 👋</i> 
 
 ## 💫 About Me:
