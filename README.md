@@ -36,9 +36,3 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-# Here's More Information :
-[![Sanskriti1102's GitHub | Languages Over Time](https://stats.quine.sh/Sanskriti1102/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Sanskriti1102)
-[![Sanskriti1102's GitHub | Topics Over Time](https://stats.quine.sh/Sanskriti1102/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Sanskriti1102)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
