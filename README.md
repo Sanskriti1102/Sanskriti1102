@@ -1,3 +1,5 @@
+<div align="center">
+
 ![MasterHead](https://share.creavite.co/JsGTiL0KoejAByNM.gif)
 ### <i> Hi There, I'm Sanskriti Kadam 👋</i> 
 
@@ -36,3 +38,4 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+</div>
