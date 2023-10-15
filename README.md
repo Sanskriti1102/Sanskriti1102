@@ -1,7 +1,8 @@
 <div align="center">
 
 ![MasterHead](https://share.creavite.co/JsGTiL0KoejAByNM.gif)
-### <i> Hi There, I'm Sanskriti Kadam 👋</i> 
+
+### <b>Hi There, I'm Sanskriti Kadam 👋</b> 
 
 ## 💫 About Me:
 🔭 I’m currently working on Python and AI projects for collaboration.<br>👯 I’m looking to collaborate on Python & some AI projects.<br>🤝 Seeking guidance in AI fundamentals.<br>🌱 I’m currently learning Advanced Python, and Artificial Intelligence Fundamentals.<br>⚡ Fun fact: I code ☕️ caffeinated!
