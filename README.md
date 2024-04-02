@@ -35,8 +35,23 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Sanskriti1102&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sanskriti1102&theme=onedark&no-frame=false&no-bg=false&margin-w=2)
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 </div>
