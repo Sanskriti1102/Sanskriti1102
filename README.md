@@ -5,7 +5,16 @@
 ### <b>Hi There, I'm Sanskriti Kadam 👋</b> 
 
 ## 💫 About Me:
-🔭 I’m currently working on Python and AI, Looker Studio projects for collaboration.<br>👯 I’m looking to collaborate on Python & some AI projects.<br>🤝 Seeking guidance in AI fundamentals.<br>🌱 I’m currently learning Advanced Python, and Artificial Intelligence Fundamentals.<br>⚡ Fun fact: I code ☕️ caffeinated!
+### 🔭 I’m currently working on Python and AI, Looker Studio projects for collaboration<br>
+### 👯 I’m looking to collaborate on Python & AI projects<br>
+### 🤝 Seeking guidance in AI fundamentals<br>
+### 🌱 I’m currently learning Advanced Python and Artificial Intelligence Fundamentals<br>
+### 💼 I am also a researcher and MySQL expert<br>
+### 🎤 Expert speaker on tech topics
+---
+
+# Teach. Learn. Evolve.
+
 ## 👀 Profile Views:
 [![](https://visitcount.itsvg.in/api?id=Sanskriti1102&icon=6&color=5)](https://visitcount.itsvg.in)
 
