@@ -13,7 +13,9 @@
 ### 🎤 Expert speaker on tech topics
 ---
 
-# Teach. Learn. Evolve.
+# So?
+## Teach. Learn. Evolve.
+### Like A Phoenix ❤️‍🔥
 
 ## 👀 Profile Views:
 [![](https://visitcount.itsvg.in/api?id=Sanskriti1102&icon=6&color=5)](https://visitcount.itsvg.in)
