@@ -2,7 +2,7 @@
   <img src="https://share.creavite.co/6831d70bf271097f92af481e.gif" alt="Sanskriti Kadam Banner"/>
 </p>
 
-<h3 align="center">Tech Mentor • Social Entreprenur • Podcast Host • AI Enthusiast • Builder of Real-World Magic</h3>
+<h3 align="center">Tech Mentor • Social Entrepreneur • Podcast Host • AI Enthusiast • Builder of Real-World Magic</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let%E2%80%99s+build+something+that+matters;Teach.+Learn.+Evolve.+Rise+Like+A+Phoenix&center=true&width=500&height=45&color=FF0000">
