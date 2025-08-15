@@ -2,7 +2,7 @@
   <img src="https://share.creavite.co/6831d70bf271097f92af481e.gif" alt="Sanskriti Kadam Banner"/>
 </p>
 
-<h3 align="center">Content Creator @IntelligenZ Talks (Career & Project Podcasts for Students) • 2× GCP Facilitator • WIT Associate Member • President & Club Advisor @Girl Up Coders • 2× Speaker • GSSoC’24 Top Mentor • Beta MLSA</h3>
+<h3 align="center">Content Creator @IntelligenZ Talks (Career & Project Podcasts for Students) • 2× GCP Facilitator • Exploring automation & AI-related solutions • WIT Associate • President @Girl Up Coders • Speaker • GSSoC’24 Top Mentor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let%E2%80%99s+build+something+that+matters;Teach.+Learn.+Evolve.+Rise+Like+A+Phoenix&center=true&width=500&height=45&color=FF0000">
@@ -17,13 +17,14 @@
 
 ---
 
-### 👑 About Me
+# 👑 About Me  
 
-🚀 **Content Creator & Tech Mentor** making tech soulful, inclusive, and *a lil poetic.*  
-🎙️ Content Creator of **IntelligenZ Talks** – a Career & Project Podcasts for Students  
-🌱 Leading real-world AI & community projects as a **WIT Associate Member**.  
-🎓 **President & Club Advisor @ Girl Up Coders** | **GSSOC’24 Top Mentor** | **Beta MLSA**  
-🧠 Published researcher | Open Source Contributor | YouTuber | Speaker
+💼 **Executive AI Engineer** — exploring the evolving world of Artificial Intelligence and putting innovations to the test.  
+🚀 **Content Creator & Tech Mentor** — making tech soulful, inclusive, and just a *little* poetic.  
+🎙️ Creator of **IntelligenZ Talks** — Career & Project Podcasts that guide students toward clarity and confidence.  
+🌱 Driving real-world AI & community initiatives as a **WIT Associate Member**.  
+🎓 **President & Club Advisor @ Girl Up Coders** | **GSSoC’24 Top Mentor** | **Beta MLSA**  
+🧠 **Published Researcher** | **Open Source Contributor** | **YouTuber** | **Speaker**  
 
 > _“Build platforms, not pedestals. Raise leaders, not followers.”_
 
