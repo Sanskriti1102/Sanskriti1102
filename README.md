@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://share.creavite.co/6831d70bf271097f92af481e.gif" alt="Sanskriti Kadam Banner"/>
+  <a href="https://www.youtube.com/@IntelligenZTalks2024/playlists" target="_blank">
+    <img src="https://share.creavite.co/6831d70bf271097f92af481e.gif" alt="Sanskriti Kadam Banner"/>
+  </a>
 </p>
 
 <h3 align="center">Executive AI Engineer | Generative & Agentic AI | Content Creator @IntelligenZ Talks | Speaker | Student Mentor (Careers • Projects • Tech)</h3>
@@ -14,7 +16,13 @@
   </a>
 </p>
 
-<img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/9968f4e8-8da7-41f2-af84-281b06000d7a" />
+
+<p align="center">
+  <a href="https://www.youtube.com/@IntelligenZTalks2024/playlists" target="_blank">
+    <img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/9968f4e8-8da7-41f2-af84-281b06000d7a" />
+  </a>
+</p>
+
 
 ---
 
