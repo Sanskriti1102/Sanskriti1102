@@ -37,6 +37,12 @@
 
 > _“Build platforms, not pedestals. Raise leaders, not followers.”_
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanskritikadam" target="_blank">
+    <img src="https://img.shields.io/badge/Want%20me%20as%20a%20Speaker%20or%20Mentor%3F-DM%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="DM me on LinkedIn"/>
+  </a>
+</p>
+
 ---
 
 ## ⚡ Skills  
