@@ -2,18 +2,19 @@
   <img src="https://share.creavite.co/6831d70bf271097f92af481e.gif" alt="Sanskriti Kadam Banner"/>
 </p>
 
-<h3 align="center">Content Creator @IntelligenZ Talks (Career & Project Podcasts for Students) • 2× GCP Facilitator • Exploring automation & AI-related solutions • WIT Associate • President @Girl Up Coders • Speaker • GSSoC’24 Top Mentor</h3>
+<h3 align="center">Executive AI Engineer | Generative & Agentic AI | Content Creator @IntelligenZ Talks | Speaker | Student Mentor (Careers • Projects • Tech)</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let%E2%80%99s+build+something+that+matters;Teach.+Learn.+Evolve.+Rise+Like+A+Phoenix&center=true&width=500&height=45&color=FF0000">
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanskritikadam" target="_blank">
     <img src="https://img.shields.io/badge/Want%20me%20as%20a%20Speaker%20or%20Mentor%3F-DM%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="DM me on LinkedIn"/>
   </a>
 </p>
+
+<img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/9968f4e8-8da7-41f2-af84-281b06000d7a" />
 
 ---
 
@@ -28,11 +29,21 @@
 
 > _“Build platforms, not pedestals. Raise leaders, not followers.”_
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanskritikadam" target="_blank">
-    <img src="https://img.shields.io/badge/Want%20me%20as%20a%20Speaker%20or%20Mentor%3F-DM%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="DM me on LinkedIn"/>
-  </a>
-</p>
+---
+
+## ⚡ Skills  
+
+[![AI Engineering](https://img.shields.io/badge/AI%20Engineering-000000?style=for-the-badge&logo=OpenAI&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)  
+Designing and implementing intelligent systems for real-world applications.  
+
+[![Docker & Milvus](https://img.shields.io/badge/Docker%20%26%20Milvus-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://milvus.io/)  
+Managing Milvus containers, ensuring smooth deployment, and working with **Attu** for collection visualization.  
+
+[![Document Processing](https://img.shields.io/badge/Document%20Processing-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://pymupdf.readthedocs.io/en/latest/)  
+Converting file formats into Markdown using Python libraries like **Docling, Pandoc, PyMuPDF, and MarkItDown**.  
+
+[![NVIDIA Ecosystem](https://img.shields.io/badge/NVIDIA%20Ecosystem-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)  
+Exploring NVIDIA tools and workflows for AI/ML acceleration.  
 
 ---
 
@@ -46,19 +57,13 @@
 📌 **AI-900 Certified** | BTech in **Computer Engineering (Honors in Intelligent Computing)**  
 📌 **Blogger** | **YouTuber** | **LinkedIn Branding Advocate**  
 📌 **Published Author** – *Forest Fire Detection using AI* | *CNN for Cotton Disease Detection*  
-📌 **YouTuber** – Sharing tech, motivation & personal branding on *IntelligenZ Talks*  
+📌 **YouTuber** – Sharing tech, motivation & personal branding on *Intelligenz Talks*  
 📌 **Speaker** – On Entrepreneurship, Women in Tech, LinkedIn Branding (50+ sessions)  
-📌 **Awarded** – *Top Mentor*, *Women in Tech Global*, *Girl Up India*
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanskritikadam" target="_blank">
-    <img src="https://img.shields.io/badge/Want%20me%20as%20a%20Speaker%20or%20Mentor%3F-DM%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="DM me on LinkedIn"/>
-  </a>
-</p>
+📌 **Awarded** – *Top Mentor*, *Women in Tech Global*, *Girl Up India*  
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
@@ -68,57 +73,31 @@
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-3B6EBF?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ---
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanskritikadam" target="_blank">
-    <img src="https://img.shields.io/badge/Want%20me%20as%20a%20Speaker%20or%20Mentor%3F-DM%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="DM me on LinkedIn"/>
-  </a>
-</p>
 
----
-
-### 📢 Featured Events
+### 📢 Featured Events  
 
 🎤 **NIT Silchar** – Talk on Tech Entrepreneurship & Innovation  
 🎤 **Code Social Community** – Branding + LinkedIn Career Talk  
 📺 **YouTube (IntelligenZ Talks)** – Hosting leaders, creators, and change-makers  
-🎤 **Panelist & Judge** – GDSC, IEEE, MLSA events
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanskritikadam" target="_blank">
-    <img src="https://img.shields.io/badge/Want%20me%20as%20a%20Speaker%20or%20Mentor%3F-DM%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="DM me on LinkedIn"/>
-  </a>
-</p>
+🎤 **Panelist & Judge** – GDSC, IEEE, MLSA events  
 
 ---
 
-### 🔥 Let’s Collaborate!
+### 🔥 Let’s Collaborate!  
 
 🤝 Open to collabs in:  
 • AI for social good  
 • Women in Tech projects  
 • Branding & public speaking mentorship  
-• Personal branding & storytelling in tech
+• Personal branding & storytelling in tech  
 
 📫 Reach me at: **sanskriti.kadam.0211@gmail.com**  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanskritikadam" target="_blank">
-    <img src="https://img.shields.io/badge/Want%20me%20as%20a%20Speaker%20or%20Mentor%3F-DM%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="DM me on LinkedIn"/>
-  </a>
-</p>
+---
 
+### 🌈 Fun Fact  
 
-
-
-### 🌈 Fun Fact
-
-> I love debugging with coffee ☕, storytelling with soul 🎙️, and building apps that actually solve real problems.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanskritikadam" target="_blank">
-    <img src="https://img.shields.io/badge/Want%20me%20as%20a%20Speaker%20or%20Mentor%3F-DM%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="DM me on LinkedIn"/>
-  </a>
-</p>
+> I love debugging with coffee ☕, storytelling with soul 🎙️, and building apps that actually solve real problems.  
 
 ---
 
