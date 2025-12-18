@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Executive AI Engineer | Generative & Agentic AI | Content Creator @IntelligenZ Talks | Speaker | Student Mentor (Careers • Projects • Tech)</h3>
+<h3 align="center">Building Intelligenz Talks for Students & Pros | Guiding Careers, Open Source & Personal Branding | 2000+ Mentees | Speaker (GSSoC, MLH & Communities) | Content Creator (YouTube, LinkedIn) </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let%E2%80%99s+build+something+that+matters;Teach.+Learn.+Evolve.+Rise+Like+A+Phoenix&center=true&width=500&height=45&color=FF0000">
