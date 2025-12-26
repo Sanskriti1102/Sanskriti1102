@@ -19,9 +19,15 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@IntelligenZTalks2024/playlists" target="_blank">
-    <img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/9968f4e8-8da7-41f2-af84-281b06000d7a" />
+    <img 
+      src="https://github.com/user-attachments/assets/f372cf2a-479d-4eca-bbb2-6029904f4eb0"
+      alt="Sanskriti Kadam | LinkedIn | Youtuber | Instagram"
+      width="1280"
+      height="320"
+    />
   </a>
 </p>
+
 
 
 ---
