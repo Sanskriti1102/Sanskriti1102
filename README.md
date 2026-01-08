@@ -41,6 +41,8 @@
 🎓 **President & Club Advisor @ Girl Up Coders** | **GSSoC’24 Top Mentor** | **Beta MLSA**  
 🧠 **Published Researcher** | **Open Source Contributor** | **YouTuber** | **Speaker**  
 
+📫 Reach me at: **sanskritikadam.sk@gmail.com**  
+
 > _“Build platforms, not pedestals. Raise leaders, not followers.”_
 
 <p align="center">
