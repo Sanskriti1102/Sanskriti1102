@@ -111,7 +111,7 @@ Exploring NVIDIA tools and workflows for AI/ML acceleration.
 • Branding & public speaking mentorship  
 • Personal branding & storytelling in tech  
 
-📫 Reach me at: **sanskriti.kadam.0211@gmail.com**  
+📫 Reach me at: **sanskritikadam.sk@gmail.com**  
 
 ---
 
