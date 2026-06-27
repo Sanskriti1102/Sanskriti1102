@@ -1,128 +1,153 @@
-<p align="center">
-  <a href="https://www.youtube.com/@IntelligenZTalks2024/playlists" target="_blank">
-    <img src="https://share.creavite.co/6831d70bf271097f92af481e.gif" alt="Sanskriti Kadam Banner"/>
-  </a>
-</p>
+<div align="center">
 
-<h3 align="center">Building Intelligenz Talks for Students & Pros | Guiding Careers, Open Source & Personal Branding | 2000+ Mentees | Speaker (GSSoC, MLH & Communities) | Content Creator (YouTube, LinkedIn) </h3>
+<img width="1280" height="320" alt="Prophecy Banner" src="https://github.com/user-attachments/assets/a6d1fa57-7320-4be3-9f69-13a239d3b4b6" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Let%E2%80%99s+build+something+that+matters;Teach.+Learn.+Evolve.+Rise+Like+A+Phoenix&center=true&width=500&height=45&color=FF0000">
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanskritikadam" target="_blank">
-    <img src="https://img.shields.io/badge/Want%20me%20as%20a%20Speaker%20or%20Mentor%3F-DM%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="DM me on LinkedIn"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turn+Ideas+into+Plans.;Build+platforms%2C+not+pedestals.;Data+%7C+Brands+%7C+Growth." alt="Typing SVG" />
 
+<br/><br/>
 
-<p align="center">
-  <a href="https://www.youtube.com/@IntelligenZTalks2024/playlists" target="_blank">
-    <img 
-      src="https://github.com/user-attachments/assets/f372cf2a-479d-4eca-bbb2-6029904f4eb0"
-      alt="Sanskriti Kadam | LinkedIn | Youtuber | Instagram"
-      width="1280"
-      height="320"
-    />
-  </a>
-</p>
+![](https://img.shields.io/badge/Chief%20Brand%20Creator%20%26%20Founder-Prophecy-4c1d95?style=flat-square)
+![](https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![](https://img.shields.io/badge/Data%20Analytics-Professional-0ea5e9?style=flat-square)
+![](https://img.shields.io/badge/President-Girl%20U%20Code-ec4899?style=flat-square)
+![](https://img.shields.io/badge/Mentored-2000%2B%20Students-10b981?style=flat-square)
 
 
 
----
+</div>
 
-# 👑 About Me  
+<div align="center">
 
-💼 **Executive AI Engineer** — exploring the evolving world of Artificial Intelligence and putting innovations to the test.  
-🚀 **Content Creator & Tech Mentor** — making tech soulful, inclusive, and just a *little* poetic.  
-🎙️ Creator of **IntelligenZ Talks** — Career & Project Podcasts that guide students toward clarity and confidence.  
-🌱 Driving real-world AI & community initiatives as a **WIT Associate Member**.  
-🎓 **President & Club Advisor @ Girl Up Coders** | **GSSoC’24 Top Mentor** | **Beta MLSA**  
-🧠 **Published Researcher** | **Open Source Contributor** | **YouTuber** | **Speaker**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskritikadam)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanskriti_kadam_sk)
+[![Prophecy](https://img.shields.io/badge/Prophecy-4c1d95?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prophecy.aesthetic)
+[![Website](https://img.shields.io/badge/prophecy.co.in-0a0014?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://prophecy.co.in)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/sanskriti_kadam)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskritikadam.sk@gmail.com)
 
-📫 Reach me at: **sanskritikadam.sk@gmail.com**  
+</div>
 
-> _“Build platforms, not pedestals. Raise leaders, not followers.”_
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanskritikadam" target="_blank">
-    <img src="https://img.shields.io/badge/Want%20me%20as%20a%20Speaker%20or%20Mentor%3F-DM%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="DM me on LinkedIn"/>
-  </a>
-</p>
+## 👑 About Me
+
+**Sanskriti Kadam** — Chief Brand Creator & Founder @ Prophecy · Power BI Developer · Career Strategist · Community Builder.
+
+I turn complex data into sharp decisions, ambition into structured action, and communities into movements. My work lives at the intersection of **Data Analytics**, **Personal Branding**, and **Career Architecture** — building systems that help people grow with clarity and confidence.
+
+> *"Build platforms, not pedestals. Raise leaders, not followers."*
+
+📧 sanskritikadam.sk@gmail.com &nbsp;|&nbsp; 🌿 [linktr.ee/sanskriti_kadam](https://linktr.ee/sanskriti_kadam)
 
 ---
 
-## ⚡ Skills  
+## 🔮 Prophecy — Turn Ideas into Plans
 
-[![AI Engineering](https://img.shields.io/badge/AI%20Engineering-000000?style=for-the-badge&logo=OpenAI&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)  
-Designing and implementing intelligent systems for real-world applications.  
+<div align="center">
 
-[![Docker & Milvus](https://img.shields.io/badge/Docker%20%26%20Milvus-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://milvus.io/)  
-Managing Milvus containers, ensuring smooth deployment, and working with **Attu** for collection visualization.  
+### *A Future Decided by You*
 
-[![Document Processing](https://img.shields.io/badge/Document%20Processing-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://pymupdf.readthedocs.io/en/latest/)  
-Converting file formats into Markdown using Python libraries like **Docling, Pandoc, PyMuPDF, and MarkItDown**.  
+> Custom boards, strategic frameworks, and execution systems — designed to help you bridge the gap between aspiration and achievement.
 
-[![NVIDIA Ecosystem](https://img.shields.io/badge/NVIDIA%20Ecosystem-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)  
-Exploring NVIDIA tools and workflows for AI/ML acceleration.  
+```
+Turn Ideas  →  into Plans  →  into Action  →  into Results
+```
 
----
+| 🎨 Handcrafted Boards | 💻 Digital Boards | 📓 Journals | ⚡ Execution Systems |
+|:---:|:---:|:---:|:---:|
+| Made-to-order vision boards | Instant-download goal boards | Built for clarity & growth | Frameworks for daily action |
 
-### 🌟 Highlight Reel
+<br/>
 
-📌 **Content Creator** – *IntelligenZ Talks: Where Tech Meets Evolution*  
-📌 **Mentored 2000+** | Top Mentor @ **GSSOC’24**  
-📌 **WIT Associate Member** – Building real-world impact through AI  
-📌 **Guest Speaker** – NIT Silchar, Code Social  
-📌 **President & Club Advisor**, Girl Up Coders | **Google Cloud Facilitator**  
-📌 **AI-900 Certified** | BTech in **Computer Engineering (Honors in Intelligent Computing)**  
-📌 **Blogger** | **YouTuber** | **LinkedIn Branding Advocate**  
-📌 **Published Author** – *Forest Fire Detection using AI* | *CNN for Cotton Disease Detection*  
-📌 **YouTuber** – Sharing tech, motivation & personal branding on *Intelligenz Talks*  
-📌 **Speaker** – On Entrepreneurship, Women in Tech, LinkedIn Branding (50+ sessions)  
-📌 **Awarded** – *Top Mentor*, *Women in Tech Global*, *Girl Up India*  
+[![Visit Prophecy](https://img.shields.io/badge/🌐%20prophecy.co.in-2e1065?style=for-the-badge)](https://prophecy.co.in)&nbsp;
+[![LinkedIn Company](https://img.shields.io/badge/Company%20Page-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/prophecyasthetics)&nbsp;
+[![Instagram](https://img.shields.io/badge/@prophecy.aesthetic-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prophecy.aesthetic)&nbsp;
+[![All Links](https://img.shields.io/badge/All%20Links-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/sanskriti_kadam)
+
+📬 **Order yours →** DM [@prophecy.aesthetic](https://instagram.com/prophecy.aesthetic) or visit [prophecy.co.in](https://prophecy.co.in)
+
+</div>
 
 ---
 
-### 🧰 Tech Stack  
+## ⚡ What I'm Building
+
+| Role | Organisation | Focus |
+|---|---|---|
+| 🔮 **Chief Brand Creator & Founder** | Prophecy | Career growth · Custom boards · Execution systems |
+| 👑 **President & Club Advisor** | Girl U Code | Women in tech · leadership · real-world building |
+| 📊 **Power BI Developer** | Data Analytics & Digital Transformation | BI dashboards · automation · cloud pipelines |
+
+> 🎙️ Also occasionally creating content on Instagram — real talk on tech, careers & personal branding.
+
+---
+
+## 🌟 Highlights
+
+| Achievement | Detail |
+|---|---|
+| 🏅 Mentored | 2,000+ students & early professionals |
+| 🎤 Speaker | 50+ sessions — Entrepreneurship, Women in Tech, LinkedIn Branding |
+| 🏆 Awarded | Top Mentor GSSoC'24 · Women in Tech Global · Girl Up India |
+| 🎓 Education | BTech Computer Engineering · Honors in Intelligent Computing |
+| 📜 Certified | Microsoft AI-900 · Google Cloud Facilitator · Beta MLSA |
+| 📰 Published | *Forest Fire Detection using AI* · *CNN for Cotton Disease Detection* |
+| 🎤 Guest Speaker | NIT Silchar · Code Social · GDSC · IEEE · MLSA |
+| 🌱 Community | WIT Associate Member · GSSoC Mentor · Open Source Contributor |
+
+---
+
+## 🧰 Skills
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-3B6EBF?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-FF6384?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+</div>
 
 ---
 
-### 📢 Featured Events  
+## 📊 GitHub Stats
 
-🎤 **NIT Silchar** – Talk on Tech Entrepreneurship & Innovation  
-🎤 **Code Social Community** – Branding + LinkedIn Career Talk  
-📺 **YouTube (IntelligenZ Talks)** – Hosting leaders, creators, and change-makers  
-🎤 **Panelist & Judge** – GDSC, IEEE, MLSA events  
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Sanskriti1102&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0a1e&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&rank_icon=github" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskriti1102&theme=tokyonight&hide_border=true&background=0d0a1e&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=8b7fc8&dates=4d3f8a" alt="GitHub Streak" width="48%" />
 
-### 🔥 Let’s Collaborate!  
+<br/><br/>
 
-🤝 Open to collabs in:  
-• AI for social good  
-• Women in Tech projects  
-• Branding & public speaking mentorship  
-• Personal branding & storytelling in tech  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti1102&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0a1e&title_color=a78bfa&text_color=c4b5fd&langs_count=6" alt="Top Languages" width="40%" />
 
-📫 Reach me at: **sanskritikadam.sk@gmail.com**  
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanskriti1102&theme=tokyo-night&bg_color=0d0a1e&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+
+</div>
 
 ---
 
-### 🌈 Fun Fact  
+## 📬 Connect With Me
 
-> I love debugging with coffee ☕, storytelling with soul 🎙️, and building apps that actually solve real problems.  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskritikadam)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanskriti_kadam_sk)
+[![Prophecy](https://img.shields.io/badge/Prophecy-4c1d95?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prophecy.aesthetic)
+[![Website](https://img.shields.io/badge/prophecy.co.in-0a0014?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://prophecy.co.in)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/sanskriti_kadam)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskritikadam.sk@gmail.com)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Teach.+Learn.+Evolve.;Join+the+Legacy+with+SK&center=true&width=500&height=45&color=FF0000">
-</p>
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Teach.+Learn.+Evolve.;Join+the+Legacy+with+SK." alt="Footer typing" />
+</div>
