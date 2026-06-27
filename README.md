@@ -149,5 +149,6 @@ Turn Ideas  →  into Plans  →  into Action  →  into Results
 ---
 
 <br/>
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Teach.+Learn.+Evolve.;Join+the+Legacy+with+SK." alt="Footer typing" />
 </div>
