@@ -1,85 +1,82 @@
-<div align="center">
+ <div align="center">
 
-<img width="1280" height="320" alt="Prophecy Banner" src="https://github.com/user-attachments/assets/a6d1fa57-7320-4be3-9f69-13a239d3b4b6" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turn+Ideas+into+Plans.;Build+platforms%2C+not+pedestals.;Data+%7C+Brands+%7C+Growth." alt="Typing SVG" />
+<img width="1280" height="476" alt="image" src="https://github.com/user-attachments/assets/ecdb8f8d-8a53-424d-ab50-678019e88f4a" />
 
 <br/><br/>
 
-![](https://img.shields.io/badge/Chief%20Brand%20Creator%20%26%20Founder-Prophecy-4c1d95?style=flat-square)
-![](https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![](https://img.shields.io/badge/Data%20Analytics-Professional-0ea5e9?style=flat-square)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turn+Data+into+Decisions.;Build+Dashboards%2C+Automate+Insights.;Data+%7C+Analytics+%7C+Growth." alt="Typing SVG" />
+
+<br/><br/>
+
+![](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![](https://img.shields.io/badge/SQL-Data%20Engineering-0ea5e9?style=flat-square&logo=databricks&logoColor=white)
 ![](https://img.shields.io/badge/President-Girl%20U%20Code-ec4899?style=flat-square)
 ![](https://img.shields.io/badge/Mentored-2000%2B%20Students-10b981?style=flat-square)
-
-
 
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskritikadam)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanskriti_kadam_sk)
-[![Prophecy](https://img.shields.io/badge/Prophecy-4c1d95?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prophecy.aesthetic)
-[![Website](https://img.shields.io/badge/prophecy.co.in-0a0014?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://prophecy.co.in)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sk_onlyy)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/sanskriti_kadam)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskritikadam.sk@gmail.com)
 
 </div>
 
-
 ## 👑 About Me
 
-**Sanskriti Kadam** — Chief Brand Creator & Founder @ Prophecy · Power BI Developer · Career Strategist · Community Builder.
+**Sanskriti Kadam** — Graduate Engineer Trainee @ Hitachi Systems India Pvt. Ltd. · Data Analytics & Business Intelligence · Content Creator · Community Builder.
 
-I turn complex data into sharp decisions, ambition into structured action, and communities into movements. My work lives at the intersection of **Data Analytics**, **Personal Branding**, and **Career Architecture** — building systems that help people grow with clarity and confidence.
+I work at the intersection of **data, technology, and business** — transforming raw client data into dashboards, automated reports, and actionable insights. From data modeling and advanced SQL queries to DAX-driven Power BI reports, I focus on making complex information clear, reliable, and useful for decision-making.
 
-> *"Build platforms, not pedestals. Raise leaders, not followers."*
+Beyond analytics, I create content, explore workplace psychology and history, and build communities that help people grow with clarity and confidence.
+
+> *"Turn data into decisions. Turn ideas into action."*
 
 📧 sanskritikadam.sk@gmail.com &nbsp;|&nbsp; 🌿 [linktr.ee/sanskriti_kadam](https://linktr.ee/sanskriti_kadam)
 
 ---
 
-## 🔮 Prophecy — Turn Ideas into Plans
+## 📊 Data Analytics — From Raw Data to Decisions
 
 <div align="center">
 
-### *A Future Decided by You*
+### *Turning Client Data into Actionable Insights*
 
-> Custom boards, strategic frameworks, and execution systems — designed to help you bridge the gap between aspiration and achievement.
+> Building dashboards, reliable data models, and automated reporting workflows that translate business and marketing requirements into clear visual stories.
 
 ```
-Turn Ideas  →  into Plans  →  into Action  →  into Results
+Raw Data  →  SQL & Modeling  →  Power BI  →  Automated Reports  →  Decisions
 ```
 
-| 🎨 Handcrafted Boards | 💻 Digital Boards | 📓 Journals | ⚡ Execution Systems |
+| 📊 Business Intelligence | 🗃️ Data Engineering | ⚡ Automation | 🤖 AI-Assisted Analytics |
 |:---:|:---:|:---:|:---:|
-| Made-to-order vision boards | Instant-download goal boards | Built for clarity & growth | Frameworks for daily action |
+| Power BI dashboards & DAX reports | Advanced SQL, Spark SQL & data models | Power Automate workflows | AI tools within BI workflows |
 
 <br/>
 
-[![Visit Prophecy](https://img.shields.io/badge/🌐%20prophecy.co.in-2e1065?style=for-the-badge)](https://prophecy.co.in)&nbsp;
-[![LinkedIn Company](https://img.shields.io/badge/Company%20Page-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/prophecyasthetics)&nbsp;
-[![Instagram](https://img.shields.io/badge/@prophecy.aesthetic-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prophecy.aesthetic)&nbsp;
-[![All Links](https://img.shields.io/badge/All%20Links-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/sanskriti_kadam)
-
-📬 **Order yours →** DM [@prophecy.aesthetic](https://instagram.com/prophecy.aesthetic) or visit [prophecy.co.in](https://prophecy.co.in)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)&nbsp;
+[![SQL](https://img.shields.io/badge/SQL-Data%20Querying-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://learn.microsoft.com/en-us/sql/)&nbsp;
+[![Power Automate](https://img.shields.io/badge/Power%20Automate-Workflows-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)](https://www.microsoft.com/en-us/power-platform/products/power-automate)
 
 </div>
 
 ---
 
-## ⚡ What I'm Building
+## ⚡ What I Work On
 
-| Role | Organisation | Focus |
+| Area | Organisation / Context | Focus |
 |---|---|---|
-| 🔮 **Chief Brand Creator & Founder** | Prophecy | Career growth · Custom boards · Execution systems |
-| 👑 **President & Club Advisor** | Girl U Code | Women in tech · leadership · real-world building |
-| 📊 **Power BI Developer** | Data Analytics & Digital Transformation | BI dashboards · automation · cloud pipelines |
+| 📊 **Data Analytics & BI** | Hitachi Systems India Pvt. Ltd. | Client dashboards · DAX reports · Data modeling |
+| 🗃️ **Querying & Transformation** | Client data workflows | Advanced SQL · Spark SQL · Data warehouse concepts |
+| ⚡ **Reporting Automation** | Business intelligence workflows | Power Automate · Automated reporting · AI-assisted analysis |
+| 📱 **Content Creation** | ReadTheRoom | Workplace psychology · Social intelligence · Young Indian professionals |
+| 🔥 **History Storytelling** | The Ember Scroll | Weekly medieval history stories |
+| 👑 **Community Leadership** | Girl U Code | Women in tech · Mentorship · Leadership |
+| 🎙️ **Tech Communication** | IntelligenZ Talks | Technology · Careers · Personal branding |
 
-> 🎙️ Also occasionally creating content on Instagram — real talk on tech, careers & personal branding.
+> 🎯 My focus: connecting the technical side of data with the business context behind every decision.
 
 ---
 
@@ -87,14 +84,17 @@ Turn Ideas  →  into Plans  →  into Action  →  into Results
 
 | Achievement | Detail |
 |---|---|
-| 🏅 Mentored | 2,000+ students & early professionals |
-| 🎤 Speaker | 50+ sessions — Entrepreneurship, Women in Tech, LinkedIn Branding |
-| 🏆 Awarded | Top Mentor GSSoC'24 · Women in Tech Global · Girl Up India |
+| 🏢 Current Role | Graduate Engineer Trainee · Hitachi Systems India Pvt. Ltd. |
+| 📊 Analytics | Power BI · DAX · Advanced SQL · Spark SQL · Data modeling |
+| ⚡ Automation | Power Automate · Automated reporting workflows |
+| 🏅 Mentorship | 2,000+ students & early professionals |
+| 🎤 Speaker | 50+ sessions across entrepreneurship, women in tech & personal branding |
+| 👑 Leadership | President & Club Advisor · Girl U Code |
+| 🏆 Community | Top Mentor GSSoC'24 · Open-source contributor |
 | 🎓 Education | BTech Computer Engineering · Honors in Intelligent Computing |
-| 📜 Certified | Microsoft AI-900 · Google Cloud Facilitator · Beta MLSA |
-| 📰 Published | *Forest Fire Detection using AI* · *CNN for Cotton Disease Detection* |
-| 🎤 Guest Speaker | NIT Silchar · Code Social · GDSC · IEEE · MLSA |
-| 🌱 Community | WIT Associate Member · GSSoC Mentor · Open Source Contributor |
+| 📜 Certifications | Microsoft AI-900 · Google Cloud Facilitator · Beta MLSA |
+| 📰 Research | *Forest Fire Detection using AI* · *CNN for Cotton Disease Detection* |
+| 🎙️ Content | IntelligenZ Talks · Instagram · YouTube |
 
 ---
 
@@ -102,34 +102,46 @@ Turn Ideas  →  into Plans  →  into Action  →  into Results
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Analytics-7B61FF?style=for-the-badge)
+![SQL](https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark%20SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0EA5E9?style=for-the-badge)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-334155?style=for-the-badge)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Dataverse](https://img.shields.io/badge/Dataverse-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-FF6384?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
+
+- **Lakehouse Architecture** — understanding modern data platforms and how they bring data engineering and analytics together.
+- **Data Warehouse Design** — exploring structured data storage, reliable models, and analytical workflows.
+- **Spark SQL** — going deeper into querying and transforming data at scale.
+
+> 🌱 Building a stronger foundation in the engineering behind analytics, not just the dashboards people see.
+
+---
+
+## 🔥 Beyond Data
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanskriti1102&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0a1e&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&rank_icon=github" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskriti1102&theme=tokyonight&hide_border=true&background=0d0a1e&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=8b7fc8&dates=4d3f8a" alt="GitHub Streak" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti1102&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0a1e&title_color=a78bfa&text_color=c4b5fd&langs_count=6" alt="Top Languages" width="40%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanskriti1102&theme=tokyo-night&bg_color=0d0a1e&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+### *Stories, Psychology & Community*
 
 </div>
+
+| Project / Initiative | What It's About |
+|---|---|
+| 📱 **ReadTheRoom** | Workplace psychology and social intelligence for young Indian professionals |
+| 🔥 **The Ember Scroll** | Weekly stories exploring medieval history, people, power, and the past |
+| 👑 **Girl U Code** | Community leadership, women in technology, and mentorship |
+| 🎙️ **IntelligenZ Talks** | Technology, career growth, personal branding, and creator-led conversations |
+| 🌱 **Open Source & Mentorship** | Helping students and early professionals navigate careers and contribute to open source |
 
 ---
 
@@ -138,9 +150,7 @@ Turn Ideas  →  into Plans  →  into Action  →  into Results
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskritikadam)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanskriti_kadam_sk)
-[![Prophecy](https://img.shields.io/badge/Prophecy-4c1d95?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prophecy.aesthetic)
-[![Website](https://img.shields.io/badge/prophecy.co.in-0a0014?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://prophecy.co.in)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sk_onlyy)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/sanskriti_kadam)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskritikadam.sk@gmail.com)
 
@@ -150,5 +160,6 @@ Turn Ideas  →  into Plans  →  into Action  →  into Results
 
 <br/>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Teach.+Learn.+Evolve.;Join+the+Legacy+with+SK." alt="Footer typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Query.+Visualize.+Automate.;Turn+Insights+into+Impact.;Building+Clarity+Through+Data." alt="Footer typing" />
 </div>
+
